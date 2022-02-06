@@ -6,6 +6,8 @@
 
 Windows 전용 파일 및 폴더를 한번에 실행시켜주는 프로그램.
 
+https://github.com/wonkwangyeon/Run-Multiple-Program/releases 에서 다운 가능
+
 사용언어 - Python
 
 사용 DB - SqlLite

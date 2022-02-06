@@ -28,7 +28,7 @@ Windows 전용 파일 및 폴더를 한번에 실행시켜주는 프로그램.
 1. 추가
 
 - 일반 파일 및 프로그램
-  - Select Box에서 File 선택하고 해당 파일 위치와 확장자 입력 후 ADD 버튼클릭
+  - Select Box에서 File 선택하고 해당 파일 위치와 **확장자** 입력 후 ADD 버튼클릭
 - 폴더
   - Select Box에서 Folder 선택하고 해당 폴더 위치 입력 후 ADD 버튼클릭
 
